@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CleanArqMVC.WebUI")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CleanArqMVC.WebUi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("CleanArqMVC.WebUI")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CleanArqMVC.WebUI")]
+[assembly: System.Reflection.AssemblyProductAttribute("CleanArqMVC.WebUi")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CleanArqMVC.WebUi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

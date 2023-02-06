@@ -1,5 +1,10 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
+  <ItemGroup>
+    <ProjectReference Include="..\CleanArqMVC.Domain\CleanArqMVC.Domain.csproj" />
+    <ProjectReference Include="..\CleanArqMVC.Infra.Data\CleanArqMVC.Infra.Data.csproj" />
+  </ItemGroup>
+
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
