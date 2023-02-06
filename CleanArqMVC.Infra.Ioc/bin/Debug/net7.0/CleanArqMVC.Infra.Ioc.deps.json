@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CleanArqMVC.Infra.Ioc/1.0.0": {
+        "runtime": {
+          "CleanArqMVC.Infra.Ioc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CleanArqMVC.Infra.Ioc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
