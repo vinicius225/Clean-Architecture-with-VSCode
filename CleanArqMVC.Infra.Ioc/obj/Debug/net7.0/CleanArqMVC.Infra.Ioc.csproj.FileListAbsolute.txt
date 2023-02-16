@@ -10,3 +10,8 @@ C:\Users\vinic\OneDrive\Área de Trabalho\Clean Architecture\CleanArqMVC.Infra.I
 C:\Users\vinic\OneDrive\Área de Trabalho\Clean Architecture\CleanArqMVC.Infra.Ioc\obj\Debug\net7.0\refint\CleanArqMVC.Infra.Ioc.dll
 C:\Users\vinic\OneDrive\Área de Trabalho\Clean Architecture\CleanArqMVC.Infra.Ioc\obj\Debug\net7.0\CleanArqMVC.Infra.Ioc.pdb
 C:\Users\vinic\OneDrive\Área de Trabalho\Clean Architecture\CleanArqMVC.Infra.Ioc\obj\Debug\net7.0\ref\CleanArqMVC.Infra.Ioc.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Clean Architecture\CleanArqMVC.Infra.Ioc\bin\Debug\net7.0\CleanArqMVC.Domain.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Clean Architecture\CleanArqMVC.Infra.Ioc\bin\Debug\net7.0\CleanArqMVC.Infra.Data.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Clean Architecture\CleanArqMVC.Infra.Ioc\bin\Debug\net7.0\CleanArqMVC.Domain.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Clean Architecture\CleanArqMVC.Infra.Ioc\bin\Debug\net7.0\CleanArqMVC.Infra.Data.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Clean Architecture\CleanArqMVC.Infra.Ioc\obj\Debug\net7.0\CleanArqMVC.Infra.Ioc.csproj.CopyComplete

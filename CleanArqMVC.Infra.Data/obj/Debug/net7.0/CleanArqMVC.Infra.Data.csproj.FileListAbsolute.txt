@@ -10,3 +10,6 @@ C:\Users\vinic\OneDrive\Área de Trabalho\Clean Architecture\CleanArqMVC.Infra.D
 C:\Users\vinic\OneDrive\Área de Trabalho\Clean Architecture\CleanArqMVC.Infra.Data\obj\Debug\net7.0\refint\CleanArqMVC.Infra.Data.dll
 C:\Users\vinic\OneDrive\Área de Trabalho\Clean Architecture\CleanArqMVC.Infra.Data\obj\Debug\net7.0\CleanArqMVC.Infra.Data.pdb
 C:\Users\vinic\OneDrive\Área de Trabalho\Clean Architecture\CleanArqMVC.Infra.Data\obj\Debug\net7.0\ref\CleanArqMVC.Infra.Data.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Clean Architecture\CleanArqMVC.Infra.Data\bin\Debug\net7.0\CleanArqMVC.Domain.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Clean Architecture\CleanArqMVC.Infra.Data\bin\Debug\net7.0\CleanArqMVC.Domain.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Clean Architecture\CleanArqMVC.Infra.Data\obj\Debug\net7.0\CleanArqMVC.Infra.Data.csproj.CopyComplete

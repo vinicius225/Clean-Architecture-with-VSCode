@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "CleanArqMVC.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/CleanArqMVC.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanArqMVC.Domain.dll": {}
+        }
+      },
+      "CleanArqMVC.Infra.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CleanArqMVC.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CleanArqMVC.Infra.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanArqMVC.Infra.Data.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "CleanArqMVC.Domain/1.0.0": {
+      "type": "project",
+      "path": "../CleanArqMVC.Domain/CleanArqMVC.Domain.csproj",
+      "msbuildProject": "../CleanArqMVC.Domain/CleanArqMVC.Domain.csproj"
+    },
+    "CleanArqMVC.Infra.Data/1.0.0": {
+      "type": "project",
+      "path": "../CleanArqMVC.Infra.Data/CleanArqMVC.Infra.Data.csproj",
+      "msbuildProject": "../CleanArqMVC.Infra.Data/CleanArqMVC.Infra.Data.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "CleanArqMVC.Domain >= 1.0.0",
+      "CleanArqMVC.Infra.Data >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\vinic\\.nuget\\packages\\": {}
@@ -33,7 +71,14 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Clean Architecture\\CleanArqMVC.Domain\\CleanArqMVC.Domain.csproj": {
+              "projectPath": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Clean Architecture\\CleanArqMVC.Domain\\CleanArqMVC.Domain.csproj"
+            },
+            "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Clean Architecture\\CleanArqMVC.Infra.Data\\CleanArqMVC.Infra.Data.csproj": {
+              "projectPath": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Clean Architecture\\CleanArqMVC.Infra.Data\\CleanArqMVC.Infra.Data.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

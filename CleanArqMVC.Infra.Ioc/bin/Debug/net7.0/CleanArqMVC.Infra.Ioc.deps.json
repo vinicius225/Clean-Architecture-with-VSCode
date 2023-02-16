@@ -7,14 +7,41 @@
   "targets": {
     ".NETCoreApp,Version=v7.0": {
       "CleanArqMVC.Infra.Ioc/1.0.0": {
+        "dependencies": {
+          "CleanArqMVC.Domain": "1.0.0",
+          "CleanArqMVC.Infra.Data": "1.0.0"
+        },
         "runtime": {
           "CleanArqMVC.Infra.Ioc.dll": {}
+        }
+      },
+      "CleanArqMVC.Domain/1.0.0": {
+        "runtime": {
+          "CleanArqMVC.Domain.dll": {}
+        }
+      },
+      "CleanArqMVC.Infra.Data/1.0.0": {
+        "dependencies": {
+          "CleanArqMVC.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CleanArqMVC.Infra.Data.dll": {}
         }
       }
     }
   },
   "libraries": {
     "CleanArqMVC.Infra.Ioc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArqMVC.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArqMVC.Infra.Data/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

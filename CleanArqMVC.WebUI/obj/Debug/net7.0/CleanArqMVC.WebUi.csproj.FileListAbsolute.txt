@@ -29,3 +29,10 @@ C:\Users\vinic\OneDrive\Área de Trabalho\Clean Architecture\CleanArqMVC.WebUI\o
 C:\Users\vinic\OneDrive\Área de Trabalho\Clean Architecture\CleanArqMVC.WebUI\obj\Debug\net7.0\CleanArqMVC.WebUi.pdb
 C:\Users\vinic\OneDrive\Área de Trabalho\Clean Architecture\CleanArqMVC.WebUI\obj\Debug\net7.0\CleanArqMVC.WebUi.genruntimeconfig.cache
 C:\Users\vinic\OneDrive\Área de Trabalho\Clean Architecture\CleanArqMVC.WebUI\obj\Debug\net7.0\ref\CleanArqMVC.WebUi.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Clean Architecture\CleanArqMVC.WebUI\bin\Debug\net7.0\CleanArqMVC.Domain.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Clean Architecture\CleanArqMVC.WebUI\bin\Debug\net7.0\CleanArqMVC.Infra.Data.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Clean Architecture\CleanArqMVC.WebUI\bin\Debug\net7.0\CleanArqMVC.Infra.Ioc.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Clean Architecture\CleanArqMVC.WebUI\bin\Debug\net7.0\CleanArqMVC.Infra.Ioc.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Clean Architecture\CleanArqMVC.WebUI\bin\Debug\net7.0\CleanArqMVC.Domain.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Clean Architecture\CleanArqMVC.WebUI\bin\Debug\net7.0\CleanArqMVC.Infra.Data.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Clean Architecture\CleanArqMVC.WebUI\obj\Debug\net7.0\CleanArqMVC.WebUI.csproj.CopyComplete

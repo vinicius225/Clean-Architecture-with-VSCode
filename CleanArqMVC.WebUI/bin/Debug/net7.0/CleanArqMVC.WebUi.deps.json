@@ -7,14 +7,54 @@
   "targets": {
     ".NETCoreApp,Version=v7.0": {
       "CleanArqMVC.WebUI/1.0.0": {
+        "dependencies": {
+          "CleanArqMVC.Infra.Ioc": "1.0.0"
+        },
         "runtime": {
           "CleanArqMVC.WebUI.dll": {}
+        }
+      },
+      "CleanArqMVC.Domain/1.0.0": {
+        "runtime": {
+          "CleanArqMVC.Domain.dll": {}
+        }
+      },
+      "CleanArqMVC.Infra.Data/1.0.0": {
+        "dependencies": {
+          "CleanArqMVC.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CleanArqMVC.Infra.Data.dll": {}
+        }
+      },
+      "CleanArqMVC.Infra.Ioc/1.0.0": {
+        "dependencies": {
+          "CleanArqMVC.Domain": "1.0.0",
+          "CleanArqMVC.Infra.Data": "1.0.0"
+        },
+        "runtime": {
+          "CleanArqMVC.Infra.Ioc.dll": {}
         }
       }
     }
   },
   "libraries": {
     "CleanArqMVC.WebUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArqMVC.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArqMVC.Infra.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArqMVC.Infra.Ioc/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
